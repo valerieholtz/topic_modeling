@@ -16,7 +16,7 @@ The goal was to compare the performance of traditional machine learning models w
 - Total Documents: 21,578
 - Format: SGML
 - Labels: Originally multi-label; converted to single-label (most frequent category per document)
-- Unique Categories (after filtering): 444
+- Unique Categories (after filtering): 442
 
 ### Preprocessing
 - Custom SGML parsing using `lxml` and `ElementTree`
